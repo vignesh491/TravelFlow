@@ -1,0 +1,5 @@
+AWS_REGION = "ap-south-1"
+S3_BUCKET = "travelflow-data"
+RAW_PREFIX = "raw/"
+PROCESSED_PREFIX = "processed/"
+CURATED_PREFIX = "curated/"
