@@ -1,0 +1,11 @@
+booking_id,customer_id,destination,booking_date,amount,status,name,city,country,destination_id,category,price_per_day,booking_year,booking_month
+B001,C001,Goa,2026-09-01,8500,confirmed,Vignesh,Hyderabad,India,D001,Beach,3500,2026,9
+B002,C002,Delhi,2026-09-02,6200,confirmed,Rahul,Mumbai,India,D002,Historical,2800,2026,9
+B003,C003,Mumbai,2026-09-03,7400,cancelled,Priya,Chennai,India,D003,City,3200,2026,9
+B004,C004,Kerala,2026-09-04,9200,confirmed,Arjun,Bangalore,India,D004,Nature,4000,2026,9
+B005,C005,Jaipur,2026-09-05,5800,confirmed,Ananya,Delhi,India,D005,Historical,3000,2026,9
+B006,C001,Chennai,2026-09-06,6800,confirmed,Vignesh,Hyderabad,India,D006,Beach,2700,2026,9
+B007,C003,Goa,2026-09-07,7900,confirmed,Priya,Chennai,India,D001,Beach,3500,2026,9
+B008,C002,Kerala,2026-09-08,10500,cancelled,Rahul,Mumbai,India,D004,Nature,4000,2026,9
+B009,C004,Delhi,2026-09-09,6100,confirmed,Arjun,Bangalore,India,D002,Historical,2800,2026,9
+B010,C005,Mumbai,2026-09-10,8300,confirmed,Ananya,Delhi,India,D003,City,3200,2026,9
