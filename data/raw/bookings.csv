@@ -1,0 +1,11 @@
+booking_id,customer_id,destination,booking_date,amount,status
+B001,C001,Goa,2026-09-01,8500,confirmed
+B002,C002,Delhi,2026-09-02,6200,confirmed
+B003,C003,Mumbai,2026-09-03,7400,cancelled
+B004,C004,Kerala,2026-09-04,9200,confirmed
+B005,C005,Jaipur,2026-09-05,5800,confirmed
+B006,C001,Chennai,2026-09-06,6800,confirmed
+B007,C003,Goa,2026-09-07,7900,confirmed
+B008,C002,Kerala,2026-09-08,10500,cancelled
+B009,C004,Delhi,2026-09-09,6100,confirmed
+B010,C005,Mumbai,2026-09-10,8300,confirmed
